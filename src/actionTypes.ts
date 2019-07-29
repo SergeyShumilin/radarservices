@@ -1,0 +1,3 @@
+export const LOAD_RISKS = 'LOAD_RISKS';
+export const LOAD_MACHINES = 'LOAD_MACHINES';
+export const LOAD_OVERALL_RISK = 'LOAD_OVERALL_RISK';
